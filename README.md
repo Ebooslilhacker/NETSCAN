@@ -21,6 +21,7 @@ example netmask:  255.255.255.0 -> 0 = no bits
 ####Requeriments####
 
 git 
+
 python3
 
 ####EXECUTE#######
