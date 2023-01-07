@@ -25,5 +25,7 @@ python3
 
 ####EXECUTE#######
 
+git clone https://github.com/Ebooslilhacker/NETSCAN.git
+cd NETSCAN
 sudo python3 scanner.py
 
