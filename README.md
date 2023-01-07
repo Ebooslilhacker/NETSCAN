@@ -12,7 +12,8 @@ request.pdst = '192.168.1.1/24'
 example ip of my gateway: 192.168.4.1
 
 example netmask:  255.255.255.0 -> 0 = no bits
-                   |   |   |                            
+                   
+                   255.255.255
                    |   |   |   
                    8 + 8 + 8 = 24 bits of netmask are = to 256 host on the network -2 (id broadcast and network id are = 254)
 
